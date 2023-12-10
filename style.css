@@ -1,0 +1,26 @@
+.old a {
+    font-size: 6rem;
+    border-radius: 2rem;
+    border: 1rem dashed transparent;
+    background-color: antiquewhite;
+    padding-inline: 5%;
+    margin: auto;
+    color: crimson;
+    text-decoration: none;
+}
+
+.old a:hover {
+    background-color: crimson;
+    color: antiquewhite;
+}
+
+.old {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
+    height: 95%;
+    background-color: antiquewhite;
+    font-family: monospace;
+}
